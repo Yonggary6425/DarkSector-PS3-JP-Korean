@@ -1,0 +1,8 @@
+# 게임 원본 파일은 절대 올리지 않습니다
+*.cache
+*.iso
+EBOOT.BIN
+EBOOT.elf
+PARAM.SFO
+__pycache__/
+*.zip
